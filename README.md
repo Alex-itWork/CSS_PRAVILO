@@ -12,4 +12,4 @@ CSS (Cascading Style Sheets) - каскадные таблицы стилей - 
  1 - Настройка софта для работы рекомендую - https://www.youtube.com/watch?v=JSGPd1E16-o VSC
 
 
- 
+ Page - https://alex-itwork.github.io/CSS_PRAVILO/
